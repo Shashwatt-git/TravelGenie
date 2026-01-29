@@ -1,17 +1,6 @@
-
-# TravelGenie UI – Flutter
-
-A new Travel Experience
-
-
-
-
-
 # TravelGenie
 
-# Flutter Make My Trip App UI Demo
-
-A sample application to show UI demo of Make My Trip App using FLutter.
+A sample application to show UI working of Travel Genie using FLutter.
 
 # Demo
 <img height="480px" width="270px" src="https://github.com/flutter-devs/flutter_MakeMyTrip_UI_Demo/blob/master/screens/demo.gif">
